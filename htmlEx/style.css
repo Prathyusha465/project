@@ -1,0 +1,13 @@
+body{
+    font-size: 20px;
+    background-color: rgb(0, 255, 166);
+}
+.iform {
+    background-color: darkblue;
+    display: flex;
+    color: white;
+    margin: 60px 60px;
+    justify-content: center;
+    height: 60vh;
+    align-items: center;
+}
